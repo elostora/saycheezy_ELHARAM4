@@ -1,23 +1,5 @@
-IP: 156.203.133.1
- User-Agent: Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0IP: 
- User-Agent: IP: 197.252.16.216
- User-Agent: Mozilla/5.0 (Linux; Android 7.0; BLL-L21 Build/HUAWEIBLL-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36IP: 156.203.128.236
- User-Agent: Mozilla/5.0 (Linux; Android 10; SM-M315F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36IP: 156.203.128.236
- User-Agent: Mozilla/5.0 (Linux; Android 10; SM-M315F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36IP: 156.203.219.205
- User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G532F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Mobile Safari/537.36IP: 156.203.219.205
- User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G532F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Mobile Safari/537.36IP: 2a03:2880:10ff:71::face:b00c
- User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:10ff:18::face:b00c
- User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:10ff:2::face:b00c
- User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:10ff:12::face:b00c
- User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:10ff:1::face:b00c
- User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:10ff:12::face:b00c
- User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:10ff:12::face:b00c
- User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:10ff:1::face:b00c
- User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:10ff:b::face:b00c
- User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 156.203.73.82
- User-Agent: Mozilla/5.0 (Linux; Android 10; SM-M315F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.81 Mobile Safari/537.36IP: 2a03:2880:20ff:c::face:b00c
- User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1IP: 185.99.32.3
+
  User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; SM-G610F Build/M1AJQ; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4183.127 Mobile Safari/537.36 Instagram 163.0.0.45.122 Android (27/8.1.0; 480dpi; 1080x1920; samsung; SM-G610F; on7xelte; samsungexynos7870; en_GB; 250742105)IP: 185.99.32.3
  User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; SM-G610F Build/M1AJQ; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4183.127 Mobile Safari/537.36 Instagram 163.0.0.45.122 Android (27/8.1.0; 480dpi; 1080x1920; samsung; SM-G610F; on7xelte; samsungexynos7870; en_GB; 250742105)IP: 185.99.32.3
  User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; SM-G610F Build/M1AJQ; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4183.127 Mobile Safari/537.36 Instagram 163.0.0.45.122 Android (27/8.1.0; 480dpi; 1080x1920; samsung; SM-G610F; on7xelte; samsungexynos7870; en_GB; 250742105)IP: 
- User-Agent: 
+ User-Agent
